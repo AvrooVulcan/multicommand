@@ -1,9 +1,0 @@
-testalias:
-  permission: "use.test.alias"
-  console: true
-  commands:
-    - "broadcast %player% has ran this alias command!"
-    - "broadcast this broadcast was ran by the same command!"
-  aliases:
-    - "testalias2"
-    - "testalien"

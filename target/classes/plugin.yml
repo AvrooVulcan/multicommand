@@ -1,5 +1,0 @@
-name: MultiCommand
-version: 1.0
-description: Bundle commands into a single command
-author: Alfie Smith
-main: net.alfiesmith.multicommand.MultiCommandPlugin
